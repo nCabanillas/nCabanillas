@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nCabanillas. I'm a Physic Engineer who enjoy the innovation and the deploy of new technologies.
-- 👀 I’m interested in science and TI projects.
+- 👀 I’m interested in Science and TI projects.
 - 🌱 I’m currently learning Cloud Computing Architecture focused on Industry 4.0
 - 💞️ I’m looking to collaborate on any high-tech project.
 - 📫 Reach me by mail: n.cblls@gmail.com
